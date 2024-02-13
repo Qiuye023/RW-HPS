@@ -16,6 +16,10 @@
     "ip":["111.229.209.155","49.74.12.132"]
   },
   {
+    "server": "秋叶",
+    "ip": ["8.137.82.158"]
+  },
+  {
     "server": "RW-HPS 请粘贴在此区块以上 (Please paste it above this block)",
     "ip": ["RW-HPS"]
   }
